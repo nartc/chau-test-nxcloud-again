@@ -1,0 +1,11 @@
+{
+  "$schema": "./node_modules/nx/schemas/nx-schema.json",
+  "targetDefaults": {
+    "build": {
+      "cache": true
+    }
+  },
+  "defaultBase": "main",
+  "nxCloudAccessToken": "MDFiOGMwZmUtOGVkZi00NTA0LWIzNzMtMGZhOTc0MmEyNDNmfHJlYWQtd3JpdGU=",
+  "nxCloudUrl": "http://localhost:4203"
+}
